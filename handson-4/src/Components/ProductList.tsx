@@ -12,25 +12,25 @@ const ProductList = () => {
         {
             name: 'Handphone',
             description: 'of technology created to facilitate communication with other people',
-            price: '$500',
+            price: '$122,86',
             imageUrl: 'https://cdn.ralali.id/assets/img/Libraries/Produk-Baru-HP-Smartphone-Asli-i13-Pro-Max-7,5-inci-Handphone-Biru,-128GB_DPDonuiFrTck50Yr_1660046770.png',
         },
         {
             name: 'Tablet',
             description: 'to watch movies more enjoyable',
-            price: '$5000',
+            price: '$215,01',
             imageUrl: 'https://images.tokopedia.net/img/cache/700/OJWluG/2023/6/23/839556f7-0d63-4390-9531-fe06ad04e317.jpg',
         },
         { 
             name: 'Guitar',
             description: 'A musical instrument that is fun to play when bored.',
-            price: '$50000',
+            price: '$98,29',
             imageUrl: 'https://down-id.img.susercontent.com/file/id-11134207-7r98s-lwcjb6uay8x81c',
         },
             {
-            name: 'Speaker',
+            name: 'Speaker Bluetooth',
             description: 'A sound amplifier for listening to music.',
-            price: '$320',
+            price: '$6,14',
             imageUrl: 'https://doran.id/wp-content/uploads/2023/10/149_20231017_082016_0005.jpg'
         }
         ]
